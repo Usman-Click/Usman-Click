@@ -9,7 +9,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 <sub>⚠️ Note: GitHub stats may not include private contributions.</sub>
 
 
