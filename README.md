@@ -34,11 +34,9 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
@@ -46,13 +44,13 @@
 
 <p align="center">
   <a href="https://dribbble.com/Usman_click" target="_blank">
-    <img src="https://dribbble.com/shots/23752499-Efficient-Birthday-Reminders-BirthTrackr-s-User-Centric-Design" width="200" alt="Design Shot 1" />
+    <img src="https://cdn.dribbble.com/userupload/13370952/file/original-94a0f1ed712d1ccef9fd5a08767b5dc8.png?resize=1504x1132&vertical=center)" width=300" alt="Design Shot 1" />
   </a>
   <a href="https://dribbble.com/Usman_click" target="_blank">
-    <img src="https://cdn.dribbble.com/userupload/2345678/file/original-efgh5678.png" width="200" alt="Design Shot 2" />
+    <img src="https://cdn.dribbble.com/userupload/14050517/file/original-157edd29211ad51a71da41a1d2279a60.png?resize=2048x1536&vertical=center" width="300" alt="Design Shot 2" />
   </a>
   <a href="https://dribbble.com/Usman_click" target="_blank">
-    <img src="https://cdn.dribbble.com/userupload/3456789/file/original-ijkl9012.png" width="200" alt="Design Shot 3" />
+    <img src="https://cdn.dribbble.com/userupload/11588092/file/original-5ae1cfcac1e8e8d087e13e17c3a170e2.jpg?resize=2048x1553&vertical=center" width="300" alt="Design Shot 3" />
   </a>
 </p>
 
