@@ -10,6 +10,8 @@
 ---
 
 ### 📈 GitHub Stats
+<sub>⚠️ Note: GitHub stats may not include private contributions.</sub>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=usman-click&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
