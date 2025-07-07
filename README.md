@@ -1,5 +1,5 @@
 
-<h2 align="center">👋 Hello, I'm Usman Click</h2>
+<h2 align="center">Hello, I'm Usman Click</h2>
 
 <p align="center">
   💻 Software Engineer | 📱 Mobile App | 🎨 Product Designer | 🚀 AI Enthusiast & Student Tech Leader <br />
