@@ -42,6 +42,24 @@
 </p>
 
 ---
+### 🎨 My Design Work
+
+<p align="center">
+  <a href="https://dribbble.com/Usman_click" target="_blank">
+    <img src="https://dribbble.com/shots/23752499-Efficient-Birthday-Reminders-BirthTrackr-s-User-Centric-Design" width="200" alt="Design Shot 1" />
+  </a>
+  <a href="https://dribbble.com/Usman_click" target="_blank">
+    <img src="https://cdn.dribbble.com/userupload/2345678/file/original-efgh5678.png" width="200" alt="Design Shot 2" />
+  </a>
+  <a href="https://dribbble.com/Usman_click" target="_blank">
+    <img src="https://cdn.dribbble.com/userupload/3456789/file/original-ijkl9012.png" width="200" alt="Design Shot 3" />
+  </a>
+</p>
+
+<p align="center">
+  🔗 <a href="https://dribbble.com/Usman_click">View more on Dribbble</a>
+</p>
+
 
 ### 🌐 Connect With Me
 
